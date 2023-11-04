@@ -4,9 +4,9 @@ where continent is not null
 order by 3,4
 
 
---select *
---from [project portfolio in sql]..['covid-vaccination$']
---order by 3,4
+select *
+from [project portfolio in sql]..['covid-vaccination$']
+order by 3,4
 
 -- select the data that we are going to be using 
 
