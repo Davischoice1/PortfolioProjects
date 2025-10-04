@@ -42,7 +42,7 @@ The repository is organized into the following main directories:
   * Sales performance analysis
   * Data warehousing queries
 
-### 5. **Blockchain_Analytics** (to be included here 🚀)
+### 5. **Blockchain_Analytics** https://dune.com/davischoice/
 
 * Blockchain transaction analysis and visualization.
 * Use of data science techniques to explore on-chain data.
